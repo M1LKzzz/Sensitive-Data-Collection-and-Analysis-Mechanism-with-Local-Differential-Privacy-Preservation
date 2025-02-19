@@ -1,0 +1,29 @@
+metadata_version: 1
+name: Privacy Enhancement Via Dummy Points in the Shuffle Model
+description: Source code for TDSC paper "Privacy Enhancement Via Dummy Points in the
+  Shuffle Model"
+authors:
+- name: Xiaochen Li
+  affiliations:
+  - name: Zhejiang University
+- name: Weiran Liu
+  affiliations:
+  - name: Alibaba Group
+- name: Hanwen Feng
+  affiliations:
+  - name: Alibaba Group
+- name: Kunzhe Huang
+  affiliations:
+  - name: Zhejiang University
+- name: Yuke Hu
+  affiliations:
+  - name: Zhejiang University
+- name: Jinfei Liu
+  affiliations:
+  - name: Zhejiang University
+- name: Kui Ren
+  affiliations:
+  - name: Zhejiang University
+- name: Zhan Qin
+  affiliations:
+  - name: Zhejiang University
