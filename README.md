@@ -26,7 +26,7 @@ GitHub 仓库：基于分布式差分隐私的敏感数据收集与分析技术
 设计动态与静态数据的隐私保护机制，通过多层次随机扰动与预算管理，平衡数据读写频率与隐私保护强度之间的关系。
 ## 📊 关键研究成果
 ### 1. 纵向联邦学习场景下的分布式差分隐私保护机制
-论文： OpBoost: 基于保序脱敏的纵向联邦树提升框架
+论文： OpBoost: A Vertical Federated Tree Boosting Framework Based on Order-Preserving Desensitization
 
 发表于： VLDB 2022 (CCF A类)
 
