@@ -2,6 +2,8 @@
 # 基于分布式差分隐私的敏感数据收集与分析技术
 GitHub 仓库：基于分布式差分隐私的敏感数据收集与分析技术
 ## 🌟 项目概述
+![image](https://github.com/user-attachments/assets/c46f557c-8ce5-460c-a3f5-4fdbe7b1376a)
+
 项目名称： 基于分布式差分隐私的敏感数据收集与分析技术
 
 项目负责人： 秦湛
