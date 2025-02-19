@@ -102,23 +102,33 @@ GitHub 仓库：基于分布式差分隐私的敏感数据收集与分析技术
 ## 📝 论文成果列表
 ### 2022年：
 OpBoost: 基于保序脱敏的纵向联邦树提升框架 (VLDB 2022, CCF A类)
+
 Privacy Enhancement via Dummy Points in the Shuffle Model (IEEE TDSC 2023, CCF A类)
 ### 2023年：
 DPI: Ensuring Strict Differential Privacy for Infinite Data Streaming (IEEE S&P 2024, CCF A类)
+
 Local Differentially Private Heavy Hitter Detection in Data Streams with Bounded Memory Consumption (SIGMOD 2024, CCF A类)
+
 Quantifying and Defending Against Privacy Threats on Federated Knowledge Graph Embedding (WWW 2023, CCF A类)
 ### 2024年：
 Privacy Risks of Federated Knowledge Graph Embedding: New Membership Inference Attacks and Personalized Differential Privacy Defense (IEEE TDSC 2024, CCF A类)
+
 Delay-Allowed Differentially Private Data Stream Release (NDSS 2025, CCF A类)
+
 SPAS: Continuous Release of Data Streams under w-Event Differential Privacy (SIGMOD 2025, CCF A类)
+
 Certified Minimax Unlearning with Generalization Rates and Deletion Capacity (NeurIPS 2023, CCF A类)
+
 SWAT: A System-Wide Approach to Tunable Leakage Mitigation in Encrypted Data Stores (VLDB 2024, CCF A类)
 ## 🌐 实际应用
 金融服务：在保护敏感金融交易数据的同时，维护数据的可用性，用于风险评估和欺诈检测。
+
 医疗健康：在远程医疗应用中保护患者数据，同时支持疾病预测和治疗计划的数据分析。
+
 智慧城市：在智慧城市项目中保护交通流量和公共安全数据，支持跨部门数据共享和联合分析。
 ## 📢 加入我们
 我们始终欢迎有才华的研究人员和开发人员加入我们的团队。如果您对差分隐私、数据安全和大数据分析感兴趣，请随时联系我们！
 ## 📖 引用
 如果您觉得我们的工作对您有帮助，请考虑引用我们的论文。完整的论文列表请参见论文成果列表部分。
+
 感谢您对我们的项目感兴趣！🚀
