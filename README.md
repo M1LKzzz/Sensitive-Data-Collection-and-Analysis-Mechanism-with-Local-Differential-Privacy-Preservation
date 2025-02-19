@@ -101,25 +101,25 @@ GitHub 仓库：基于分布式差分隐私的敏感数据收集与分析技术
 在性能上比仅缓解特定泄漏类型的方案更具竞争力。
 ## 📝 论文成果列表
 ### 2022年：
-OpBoost: 基于保序脱敏的纵向联邦树提升框架 (VLDB 2022, CCF A类)
+- OpBoost: A Vertical Federated Tree Boosting Framework Based on Order-Preserving Desensitization (VLDB 2022, CCF A类)
 
-Privacy Enhancement via Dummy Points in the Shuffle Model (IEEE TDSC 2023, CCF A类)
+- Privacy Enhancement via Dummy Points in the Shuffle Model (IEEE TDSC 2023, CCF A类)
 ### 2023年：
-DPI: Ensuring Strict Differential Privacy for Infinite Data Streaming (IEEE S&P 2024, CCF A类)
+- DPI: Ensuring Strict Differential Privacy for Infinite Data Streaming (IEEE S&P 2024, CCF A类)
 
-Local Differentially Private Heavy Hitter Detection in Data Streams with Bounded Memory Consumption (SIGMOD 2024, CCF A类)
+- Local Differentially Private Heavy Hitter Detection in Data Streams with Bounded Memory Consumption (SIGMOD 2024, CCF A类)
 
-Quantifying and Defending Against Privacy Threats on Federated Knowledge Graph Embedding (WWW 2023, CCF A类)
+- Quantifying and Defending Against Privacy Threats on Federated Knowledge Graph Embedding (WWW 2023, CCF A类)
 ### 2024年：
-Privacy Risks of Federated Knowledge Graph Embedding: New Membership Inference Attacks and Personalized Differential Privacy Defense (IEEE TDSC 2024, CCF A类)
+- Privacy Risks of Federated Knowledge Graph Embedding: New Membership Inference Attacks and Personalized Differential Privacy Defense (IEEE TDSC 2024, CCF A类)
 
-Delay-Allowed Differentially Private Data Stream Release (NDSS 2025, CCF A类)
+- Delay-Allowed Differentially Private Data Stream Release (NDSS 2025, CCF A类)
 
-SPAS: Continuous Release of Data Streams under w-Event Differential Privacy (SIGMOD 2025, CCF A类)
+- SPAS: Continuous Release of Data Streams under w-Event Differential Privacy (SIGMOD 2025, CCF A类)
 
-Certified Minimax Unlearning with Generalization Rates and Deletion Capacity (NeurIPS 2023, CCF A类)
+- Certified Minimax Unlearning with Generalization Rates and Deletion Capacity (NeurIPS 2023, CCF A类)
 
-SWAT: A System-Wide Approach to Tunable Leakage Mitigation in Encrypted Data Stores (VLDB 2024, CCF A类)
+- SWAT: A System-Wide Approach to Tunable Leakage Mitigation in Encrypted Data Stores (VLDB 2024, CCF A类)
 ## 🌐 实际应用
 金融服务：在保护敏感金融交易数据的同时，维护数据的可用性，用于风险评估和欺诈检测。
 
